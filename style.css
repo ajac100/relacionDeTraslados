@@ -1,0 +1,32 @@
+body {
+    display: flex;
+    
+}
+
+form {
+    background-color: aquamarine;
+}
+
+
+
+h2, h3 {
+    color: #008080;
+  }
+  
+  
+button {
+    background-color: #008080;
+    color: #fff;
+    padding: 5px 5px;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  
+button:hover {
+    background-color: #005757;
+  }
+  
+  
+  
+  
